@@ -1,4 +1,4 @@
-# Esse Projeto é Conteúdo dos Cursos
+# Esse Projeto é Conteúdo dos Cursos:
 
 ## 1. Curso de TypeScript parte 1: evoluindo seu JavaScript
 
